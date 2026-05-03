@@ -13,10 +13,13 @@ As tecnologias usadas neste projejo foram:
 <br>
 Na imagem abaixo vemos como ele fica na tela de um computador;
 </p>
-<img src="https://github.com/Marcos-Faraco/We-Care-Pet-Happy/blob/main/img/logo%20we%20care%20desktop.png" alt="logo-we-care"/>
+<br>
+<img src="https://github.com/Marcos-Faraco/We-Care-Pet-Happy/blob/main/img/logo%20we%20care%20desktop.png" alt="logo-we-care-desktop"/>
 <br>
 <p>
   Contudo este é um projeto responsivo, e na imagem abaixo podemos ver como ele fica na tela de um smartphone;
 </p>
+<br>
+<img src="https://github.com/Marcos-Faraco/We-Care-Pet-Happy/blob/main/img/logo%20we%20care%20mobile.png" alt="logo-we-care-mobile"/>
 
 
